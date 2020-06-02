@@ -1,3 +1,6 @@
+---
+title: The Title
+---
 # Mobility Data Specification
 
 A data standard and API specification for *mobility as a service* providers, such as Dockless Bikeshare, E-Scooters, and Shared Ride providers who work within the public right of way.

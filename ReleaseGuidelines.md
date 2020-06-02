@@ -1,3 +1,6 @@
+---
+title: Release Guidelines
+---
 # MDS Release Guidelines
 
 MDS will see periodic updates and new [releases][mds-releases] from time to time. This document describes the general guidelines around how and when a new release is cut.
